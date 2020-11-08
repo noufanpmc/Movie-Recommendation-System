@@ -13,4 +13,6 @@ In Evaluation.ipynb we have benchmarked the three algoritm based on
 - RMSE on the rating prediction.
 - Execution time.
 
+Embedding visualization present in usage_sample notebook
+
 Please find the detailed documentation in Collaborative_filtering_documentation.pdf
